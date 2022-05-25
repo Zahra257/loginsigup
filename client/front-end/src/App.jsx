@@ -16,7 +16,7 @@ return (
       <Route path='/' element={<Container/>}/>
 
       <Route path='/Login/Company' element={<Company/>}/>
-       <Route path='/Admin' element={<Admin/>}/>
+       <Route path='/admin' element={<Admin/>}/>
        <Route path='/User' element={<User/>}/>
        <Route path='/Agency' element={<Agency/>}/>
 
